@@ -1,0 +1,10 @@
+.home .movie-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .home{
+    position: absolute;
+    width: 100%;
+  }

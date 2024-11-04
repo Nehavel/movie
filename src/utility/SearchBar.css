@@ -1,0 +1,11 @@
+.search-bar {
+    justify-content: center;
+    display: flex;
+}
+/* .search-bar input{
+       margin: auto;
+    display: block;
+}
+.search-bar button{
+    padding: 0 5px 0 5px;
+} */
